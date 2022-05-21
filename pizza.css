@@ -1,0 +1,30 @@
+.text-orange{
+    color: orange;
+}
+;
+
+.tags li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px 0 0 0;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+.bg-bg-lightgoldenrodyellow{
+    background-color: lightgoldenrodyellow;
+}
+.bg-lightsalmon{
+    background-color: lightsalmon;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.border-bottom-orange{
+    border-bottom: 1px solid orange !important;
+}
+textarea.form-control {
+    height: 280px;
+}
